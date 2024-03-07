@@ -1,4 +1,4 @@
-package io.github.jaychoufans.openapi.core;
+package io.github.jaychoufans.core;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

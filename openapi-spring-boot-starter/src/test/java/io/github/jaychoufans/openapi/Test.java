@@ -1,8 +1,8 @@
 package io.github.jaychoufans.openapi;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import io.github.jaychoufans.openapi.core.SignUtils;
-import io.github.jaychoufans.openapi.server.KeyGenerator;
+import io.github.jaychoufans.core.SignUtils;
+import io.github.jaychoufans.server.KeyGenerator;
 import org.junit.jupiter.api.BeforeAll;
 
 import java.security.InvalidKeyException;

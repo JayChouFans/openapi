@@ -1,4 +1,4 @@
-package io.github.jaychoufans.openapi.server;
+package io.github.jaychoufans.core;
 
 import lombok.Data;
 
